@@ -9,11 +9,13 @@ All notebooks come furnished with a data exploration section and conclusion, and
 ## [Iris Dataset Exploration](https://github.com/pogags/DataMiningPractice/blob/main/iris_dataset_exploration.ipynb)
 
 Using the infamous Iris dataset, explored techniques of initial data exploration. Determine how the Iris dataset features relate to eachother and obtain general mathematic information relating to the features.
+
 ![image](https://user-images.githubusercontent.com/60637235/145641736-91f752cf-ca17-4879-91cd-a0430ba23cf2.png)
 
 ## [Iris Clustering](https://github.com/pogags/DataMiningPractice/blob/main/iris_clustering.ipynb)
 
 Employ multiple *clustering* techniques on the same Iris Dataset, utilize a PCA (Principal Component Analysis), and visualize the results. Additionally, this was used to evaluate multiple clustering techniques against eachother to determine the best suited one for this dataset.
+
 ![image](https://user-images.githubusercontent.com/60637235/145642140-cb57069f-8a9d-46ff-86c1-beae2a283af3.png)
 
 ## [Iris Review](https://github.com/pogags/DataMiningPractice/blob/main/iris_review.ipynb)
@@ -28,7 +30,7 @@ Rather than using clustering, this is a exploration of *classification* techniqu
 
 ## [Mushroom Stew](https://github.com/pogags/DataMiningPractice/blob/main/mushroom_stew.ipynb)
 
-Using data in the (expanded.csv)[https://github.com/pogags/DataMiningPractice/blob/main/expanded.csv], determine what a forager might want to look for when picking mushrooms to ensure a safe and appealing stew. The records in this dataset represent mushrooms, and the data has 22 features and 1 target class which is ofcourse whether the mushroom is edible or poisonous. This notebook uses both data exploration as well as classification techniques to determine the best way to forage, and includes a bonus section that could be employed to pick safe mushrooms if the forager in question lost their sense of smell (scent ended up as having the highest feature importance).
+Using data in the (expanded.csv)[https://github.com/pogags/DataMiningPractice/blob/main/expanded.csv], determine what a forager might want to look for when picking mushrooms to ensure a safe and appealing stew. The records in this dataset represent mushrooms, and the data has 22 features and 1 target class which is ofcourse whether the mushroom is edible or poisonous. This notebook uses both data exploration as well as classification techniques to determine the best way to forage, and includes a bonus section that could be employed to pick safe mushrooms if the forager in question lost their sense of smell (scent had the highest feature importance generally).
 
 ![image](https://user-images.githubusercontent.com/60637235/145644290-b455865b-c907-4946-bbb1-dece42a5f0f0.png)
 
