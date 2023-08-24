@@ -1,5 +1,5 @@
 # DataMiningPractice
-Data Mining is described as the art of combing through data to discover hidden patterns, connections, and trends. It uses methods at the intersection of machine learning, statistics, programming, and AI. Like any skill, it requires practice and knowledge, and these short forays into Data Mining served as exercises to build the muscles needed to undertake more complex projects later on.
+Data Mining is described as the art of combing data to discover hidden patterns, connections, and trends. It uses methods at the intersection of machine learning, statistics, programming, and AI. Like any skill, it requires practice and knowledge, and these short forays into Data Mining served as exercises to build the muscles needed to undertake more complex projects later on.
 The purpose of this repository is two fold; present my experience and skills with data mining and serve as a home for recursive code to be used later.
   
 All notebooks come furnished with a data exploration section and conclusion, and some sport classes and functions created to make for easy reproduction of models.
